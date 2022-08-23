@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 7-islower.py
-# Felix Greatness <375@holbertonschool.com>
 
 def islower(c):
     """Check for lowercase characters."""
