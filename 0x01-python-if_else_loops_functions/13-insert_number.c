@@ -1,6 +1,5 @@
 /*
  * File: 13-insert_number.c
- * Auth: Felix Greatness
  */
 
 #include "lists.h"
