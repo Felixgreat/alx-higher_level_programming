@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 100-print_tebahpla.py
-# Felix Greatness <375@holbertonschool.com>
 
 """"Print the alphabet in reverse order alternating upper- and lower-case."""
 i = 0
