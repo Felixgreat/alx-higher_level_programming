@@ -2,6 +2,7 @@
 # 102-magic_calculation.py
 # Felix Nwaora <375@holbertonschool.com>
 
+
 def magic_calculation(a, b):
     result = 0
     for i in range(1, 3):
