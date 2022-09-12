@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-# Felix Nwaora
+# Felix Nwaora <375@holbertonschool.com>
+
 
 def magic_calculation(a, b):
     result = 0
